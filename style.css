@@ -1,0 +1,29 @@
+.title{
+border-radius: 10px;
+margin-bottom: 10px;
+text-align:center;
+width: 210px;
+color:#ff4456;
+border: solid black 1px;
+}
+input[type="button"]
+{
+border-radius: 100%;
+background-color:black;
+color: white;
+border-color:orange ;
+width:30%;
+size: 40px;
+font-size: 60px;
+}
+input[type="text"]
+{
+border-radius: 0px;
+text-align: right;
+background-color:white;
+border-color: black ;
+width:40%;
+height: 60%;
+font-style: bold;
+
+}
